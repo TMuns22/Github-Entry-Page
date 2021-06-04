@@ -2,6 +2,7 @@
 
 **Lab #01**
   Installing and setting up your personal computer with the software tools required for this course, practicing using software tools, practicing terminal or shell commands, practicing keyboard shortcuts, and creating your first Node.js server-side JavaScript file.
+
 **Project #01**
   Use the command line interface (CLI) of your operating system to create a number of folders, list the folders in a tree-like structure, use the ping command, and practice using the break keyboard sequence, and create and execute a JavaScript file using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug.
 **Lab #02**
