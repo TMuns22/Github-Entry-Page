@@ -1,5 +1,9 @@
-# Github-Entry-Page
+# CIT 281
 
+
+**Labs**
+
+[Lab #01](https://tmuns22.github.io/cit281-lab01/)
 **Lab #01**
   Installing and setting up your personal computer with the software tools required for this course, practicing using software tools, practicing terminal or shell commands, practicing keyboard shortcuts, and creating your first Node.js server-side JavaScript file.
 
