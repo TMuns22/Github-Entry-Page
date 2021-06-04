@@ -1,7 +1,6 @@
 # CIT 281
 
-
-**Labs**
+## Labs
 
 [Lab #01](https://tmuns22.github.io/cit281-lab01/)
   Installing and setting up your personal computer with the software tools required for this course, practicing using software tools, practicing terminal or shell commands, practicing keyboard shortcuts, and creating your first Node.js server-side JavaScript file.
@@ -30,7 +29,7 @@
 [Lab #09](https://tmuns22.github.io/cit281-lab09/)
   Create Learning Lab course/repo within your GitHub account, practice exiting and returning to the course from course repo, work through course, and download completed course repo as deliverable.
   
- **Projects** 
+## Projects 
   
 [Project #01](https://tmuns22.github.io/cit281-p1/)
   Use the command line interface (CLI) of your operating system to create a number of folders, list the folders in a tree-like structure, use the ping command, and practice using the break keyboard sequence, and create and execute a JavaScript file using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug.
